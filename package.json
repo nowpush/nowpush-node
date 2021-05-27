@@ -1,0 +1,15 @@
+{
+  "name": "nowpush",
+  "version": "1.0.2",
+  "description": "Nowpush Service For Send Notification for all paltform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akteamcrafts",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "deprecated": false
+}
